@@ -1,2 +1,2 @@
 # GitLessons
-A repository used for a series of Git lessons, provided by my DAW class.
+A repository who's purpouse is learning a series of Git lessons, provided by my DAW class. (2º DAW;Despliegue)
